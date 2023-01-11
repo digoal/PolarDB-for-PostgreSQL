@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3dba534a","path":"/zh/deploying/deploy-stack.html","title":"\u57FA\u4E8E PolarDB Stack \u5171\u4EAB\u5B58\u50A8","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1656919280000},"filePathRelative":"zh/deploying/deploy-stack.md"}');export{e as data};

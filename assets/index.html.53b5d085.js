@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-419a8a1e","path":"/zh/features/v11/htap/","title":"HTAP","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1672148725000},"filePathRelative":"zh/features/v11/htap/README.md"}');export{e as data};

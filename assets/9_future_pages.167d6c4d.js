@@ -1,0 +1,1 @@
+var s="/PolarDB-for-PostgreSQL/assets/1_polardb_architecture.ce580cc6.png",r="/PolarDB-for-PostgreSQL/assets/6_outdated_pages.0ec897bc.png",a="/PolarDB-for-PostgreSQL/assets/7_solution_to_outdated_pages.4f375655.png",o="/PolarDB-for-PostgreSQL/assets/9_future_pages.9b52d775.png";export{s as _,r as a,a as b,o as c};
